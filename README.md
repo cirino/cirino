@@ -11,7 +11,7 @@ Gosto de contribuir para a comunidade com um pouco do meu conhecimento e XP, e f
 
 ## ⚡ Tudo o que já me ajudou com a pagamento dos boletos
 
-Ferramentas que aprendi e utilizei em meus principais projetos e empresas:
+Algumas Ferramentas e Linguagens que aprendi e utilizei em meus principais projetos e empresas:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
