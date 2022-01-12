@@ -1,6 +1,6 @@
 ### Salve 🖐🏽
 
-Sou o Cirino, e desenvolvo soluções e produtos utilizando linguagens de programação e ferramentas de analytics e monitoração baseadas em Cloud. Trabalho com tecnologia desde 2010, e não sou "fanboy" de linguagem ou tecnologia, apenas sou um grande apreciador das que pagam meus boletos, porém, tenho python como hobbies! Sou do Brasil, e vivo em São Paulo, Guarulhos.
+Sou o Cirino, e desenvolvo soluções e produtos utilizando linguagens de programação e ferramentas de analytics e monitoração baseadas em Cloud. Trabalho com tecnologia desde 2010, e não sou "fanboy" de linguagem ou tecnologia, apenas sou um grande apreciador das que pagam meus boletos, porém, tenho python como hobbies! Nascido e criado em Guarulhos, São Paulo, Brasiilsillsill.
 
 Gosto de contribuir para a comunidade com um pouco do meu conhecimento e XP, e faço lives nos perfis da Casa do Dev, na [Twitch](http://twitch.tv/casadodev) e no [Instagram](http://instagram.com/casadodev). 
 
