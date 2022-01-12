@@ -33,10 +33,16 @@ Algumas Ferramentas e Linguagens que aprendi e utilizei em meus principais proje
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
+
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cirino&show_icons=true&bg_color=CDCDCD&border_color=7D7D7D&title_color=087CFA&text_color=000000&icon_color=6B57FF&border_radius=15px&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirino&langs_count=7&layout=compact&show_icons=true&bg_color=CDCDCD&border_color=7D7D7D&title_color=087CFA&text_color=000000&icon_color=6B57FF&border_radius=15px&include_all_commits=true&count_private=true"/>
 </div>
+
+
+
+![](https://komarev.com/ghpvc/?username=cirino&color=green)
+![](https://hit.yhype.me/github/profile?user_id=204371)
 <!--
 **cirino/cirino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
